@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Shippori Antique';
     color: white;
     background-color: #012840;
 }
@@ -13,7 +13,7 @@
 
 .menu ul{
     list-style: none;
-    padding-top:30px;
+    padding-top:20px;
     padding-bottom: 50px;
     margin-left: 20px;
     background-color: #41E1F2;
@@ -36,6 +36,7 @@
 h1{
     clear: both;
     text-align: center;
+    font-size: xx-large;
 }
 
 img{
