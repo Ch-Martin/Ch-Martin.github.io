@@ -137,6 +137,11 @@ aside{
     margin-left: 20px;
 }
 
+.fas, .fab{
+    color: #000;
+    transition: all 0.25s;
+}
+
 .fas{
     margin-right: 10px;
     font-size: 1.4em;
@@ -145,6 +150,10 @@ aside{
 .fab{
     font-size: 4em;
     margin: 30px 10px;
+}
+
+.fab:hover, .fas:hover{
+    color: #6204BF;
 }
 
 .aside__cv {
